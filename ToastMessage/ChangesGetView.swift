@@ -13,6 +13,8 @@ class ChangesGetView: UIView {
     @IBOutlet weak var changesTextLabel: UILabel!
     
     @IBAction func getChangesAction(_ sender: Any) {
+        
+        print("pressed")
     }
   
 }
