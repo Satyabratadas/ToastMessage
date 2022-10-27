@@ -39,6 +39,7 @@
                             </buttonConfiguration>
                             <connections>
                                 <action selector="GetChangesAction:" destination="-1" eventType="touchUpInside" id="8av-5x-qQs"/>
+                                <action selector="getLatestChangeSet:" destination="-1" eventType="touchUpInside" id="rU6-mi-02x"/>
                             </connections>
                         </button>
                     </subviews>

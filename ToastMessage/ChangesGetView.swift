@@ -12,11 +12,11 @@ class ChangesGetView: UIView {
     @IBOutlet weak var contentView: UIView!
     @IBOutlet weak var changesTextLabel: UILabel!
     
-    @IBAction func getChangesAction(_ sender: Any) {
-        
+    
+    @IBAction func getLatestChangeSet(_ sender: UIButton) {
         print("pressed")
     }
-  
+    
 }
 
 extension UIView {
